@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "412a375e-94b8-4650-abed-fb7f1b9da670"
+      }
+    },
+    "owner": "vantanova"
   }
 }
